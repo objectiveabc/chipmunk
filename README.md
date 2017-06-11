@@ -1,2 +1,2 @@
 # chipmunk
-Test repo to be used as scratchpad
+Currently learning Python and using this repo as a collection of thoughts
